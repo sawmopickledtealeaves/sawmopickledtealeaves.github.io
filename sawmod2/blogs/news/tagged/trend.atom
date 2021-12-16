@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://uneo.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://uneo.myshopify.com/blogs/news/tagged/trend.atom"/>
+  <title>uneo - News</title>
+  <updated>2020-08-26T12:52:00-04:00</updated>
+  <author>
+    <name>uneo</name>
+  </author>
+  <entry>
+    <id>https://uneo.myshopify.com/blogs/news/5-days-of-simple-summer-looks</id>
+    <published>2020-07-17T11:59:00-04:00</published>
+    <updated>2020-12-22T10:38:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/blogs/news/5-days-of-simple-summer-looks"/>
+    <title>5 Days Of Simple Summer Looks</title>
+    <author>
+      <name>Shopify API</name>
+    </author>
+    <content type="html">
+      <![CDATA[<span>Summer days can be unpredictable. With kids out of school, we are always in search or something new to keep everyone entertained or the next adventure. It can be difficult to even find a time to work let alone get ready for the day, so I put it to the test- how fast can I throw together 5 easy outfits for every occasion throughout the week. The goal was to still look stylish and put together, but keep it simple and quick! Here are 5 days of simple summer looks for various occasions.</span>]]>
+    </content>
+  </entry>
+</feed>

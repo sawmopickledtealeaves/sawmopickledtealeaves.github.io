@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://uneo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://uneo.myshopify.com/collections/sale-off.atom"/>
+  <title>uneo</title>
+  <updated>2020-12-30T10:29:20-05:00</updated>
+  <author>
+    <name>uneo</name>
+  </author>
+  <entry>
+    <id>https://uneo.myshopify.com/products/4823023747162</id>
+    <published>2020-12-30T10:29:20-05:00</published>
+    <updated>2020-12-30T10:29:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/products/bird-stool"/>
+    <title>Bird Stool</title>
+    <s:type>Indoor</s:type>
+    <s:vendor>uneo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-9.jpg?v=1609342211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>uneo<br>
+        <strong>Type: </strong>Indoor<br>
+        <strong>Price: </strong>
+            147.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road.</p>
+<p>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>large</s:tag>
+    <s:tag>medium</s:tag>
+    <s:tag>wood</s:tag>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/4823023747162</id>
+      <title>Default Title</title>
+      <s:price currency="USD">147.52</s:price>
+      <s:sku>su34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uneo.myshopify.com/products/4822948610138</id>
+    <published>2020-12-29T22:12:45-05:00</published>
+    <updated>2020-12-29T22:12:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/products/una-chair"/>
+    <title>UNA Chair</title>
+    <s:type></s:type>
+    <s:vendor>uneo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-32.jpg?v=1609296616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>uneo<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            102.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road.</p>
+<p>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.</p><br>--<br><p>Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road.</p>
+<p>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All</s:tag>
+    <s:tag>Furnitures</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>wood</s:tag>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/4822948610138</id>
+      <title>Default Title</title>
+      <s:price currency="USD">102.84</s:price>
+      <s:sku>su2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uneo.myshopify.com/products/4822947823706</id>
+    <published>2020-12-29T22:12:44-05:00</published>
+    <updated>2020-12-29T22:12:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/products/soundless-speaker"/>
+    <title>Soundless Speaker</title>
+    <s:type></s:type>
+    <s:vendor>uneo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-8.jpg?v=1609296594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>uneo<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            238.00 - 241.00
+            <a href="https://uneo.myshopify.com/products/soundless-speaker">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road.</p>
+<p>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.</p><br>--<br><p>Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road.</p>
+<p>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>big</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>bluetooth</s:tag>
+    <s:tag>crosssell</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>speaker</s:tag>
+    <s:tag>upsell</s:tag>
+    <s:tag>video</s:tag>
+    <s:tag>wood</s:tag>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/4822947823706</id>
+      <title>white</title>
+      <s:price currency="USD">238.00</s:price>
+      <s:sku>su26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/4822947823706</id>
+      <title>black</title>
+      <s:price currency="USD">239.00</s:price>
+      <s:sku>su27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/4822947823706</id>
+      <title>green</title>
+      <s:price currency="USD">240.00</s:price>
+      <s:sku>su28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/4822947823706</id>
+      <title>pink</title>
+      <s:price currency="USD">241.00</s:price>
+      <s:sku>su29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uneo.myshopify.com/products/4821922971738</id>
+    <published>2020-12-22T10:45:22-05:00</published>
+    <updated>2020-12-22T10:45:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/products/ceramic-pot"/>
+    <title>Ceramic Pot</title>
+    <s:type>Indoor</s:type>
+    <s:vendor>Rustic LTD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1-31.jpg?v=1618250122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rustic LTD<br>
+        <strong>Type: </strong>Indoor<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Homemade white ceramic flower pot</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>ceramic</s:tag>
+    <s:tag>plants</s:tag>
+    <s:tag>pot</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/4821922971738</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>Pot1001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

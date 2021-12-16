@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://uneo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://uneo.myshopify.com/collections/women.atom"/>
+  <title>uneo</title>
+  <updated>2021-04-03T00:29:05-04:00</updated>
+  <author>
+    <name>uneo</name>
+  </author>
+  <entry>
+    <id>https://uneo.myshopify.com/products/6544803233882</id>
+    <published>2021-04-03T00:29:05-04:00</published>
+    <updated>2021-04-03T00:29:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/products/the-silky-cotton"/>
+    <title>The Silky Cotton</title>
+    <s:type></s:type>
+    <s:vendor>uneo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0076/1708/5530/products/98.png?v=1617424148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>uneo<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Silky Cotton Lantern Top combines put-together polish with lived-in comfort. Made from high-twist, 100% cotton yarn in a traditional twill weave, this drapey button-down has a silky-soft feel you usually get from decades of wear—in a modern silhouette that features a flattering V neckline, blouson sleeves, and a button-front. Next-level softness meets effortless style.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544803233882</id>
+      <title>White</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544803233882</id>
+      <title>Black</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uneo.myshopify.com/products/6544802676826</id>
+    <published>2021-04-03T00:21:11-04:00</published>
+    <updated>2021-04-03T00:21:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/products/the-japanese-goweave"/>
+    <title>The Japanese GoWeave</title>
+    <s:type></s:type>
+    <s:vendor>uneo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0076/1708/5530/products/86.png?v=1617423672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>uneo<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A staple that works overtime. The Japanese GoWeave Light Square Shirt features a point collar, shirred shoulder detailing, short sleeves, a clean button front, and an oversized, boxy fit. Plus, it’s made of our drapey, wrinkle-resistant GoWeave fabric—which means it’s also surprisingly breathable, durable, and lightweight. Say goodbye to sweat stains.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544802676826</id>
+      <title>White</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544802676826</id>
+      <title>Black</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uneo.myshopify.com/products/6544802087002</id>
+    <published>2021-04-03T00:11:45-04:00</published>
+    <updated>2021-04-03T00:11:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/products/the-bikini"/>
+    <title>The Bikini</title>
+    <s:type></s:type>
+    <s:vendor>uneo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0076/1708/5530/products/74.png?v=1617423106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>uneo<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Finally, a comfortable bra. Our soft, double-layered tank bra is supportive and easy, with an elastic band for a perfect fit. No pushing. No padding. See the story.
+International bra and underwear orders are final sale and are not eligible for returns or exchanges at this time.
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544802087002</id>
+      <title>Black</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544802087002</id>
+      <title>White</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uneo.myshopify.com/products/6544801005658</id>
+    <published>2021-04-02T23:59:08-04:00</published>
+    <updated>2021-04-02T23:59:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/products/the-tank-bra"/>
+    <title>The Tank Bra</title>
+    <s:type></s:type>
+    <s:vendor>uneo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0076/1708/5530/products/61.png?v=1617422498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>uneo<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Finally, a comfortable bra. Our soft, double-layered tank bra is supportive and easy, with an elastic band for a perfect fit. No pushing. No padding. See the story.
+International bra and underwear orders are final sale and are not eligible for returns or exchanges at this time.
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544801005658</id>
+      <title>Black</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544801005658</id>
+      <title>White</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uneo.myshopify.com/products/6544798646362</id>
+    <published>2021-04-02T23:34:51-04:00</published>
+    <updated>2021-04-02T23:34:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/products/the-linen-relaxed-shirt"/>
+    <title>The Linen Relaxed Shirt</title>
+    <s:type></s:type>
+    <s:vendor>uneo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0076/1708/5530/products/55.png?v=1617420892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>uneo<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            58.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">he essential linen shirt. Our classic relaxed shirt silhouette in linen for the warmer months, with an organic texture for a lived-in, low-maintenance look. Plus, it’s super breathable, making this your coolest button-down yet.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544798646362</id>
+      <title>Black</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544798646362</id>
+      <title>White</title>
+      <s:price currency="USD">58.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uneo.myshopify.com/products/6544425713754</id>
+    <published>2021-04-01T14:12:15-04:00</published>
+    <updated>2021-04-01T14:12:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/products/the-washable-silk"/>
+    <title>The Washable Silk</title>
+    <s:type></s:type>
+    <s:vendor>uneo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0076/1708/5530/products/25.png?v=1617386306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>uneo<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Luxurious, versatile silk—that you can throw in the wash. The Washable Silk Relaxed Shirt is less sheer and more durable than our other silk, which means you can wash it right alongside your other clothes. (To maintain the silky hand feel, tumble dry on low.) Easy to wear and easy to clean, this relaxed silhouette features a traditional point collar, a round hem, and two utility pockets. It’s about as effortless as silk can get.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544425713754</id>
+      <title>Bone</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544425713754</id>
+      <title>Black</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uneo.myshopify.com/products/6544420274266</id>
+    <published>2021-04-01T13:51:19-04:00</published>
+    <updated>2021-04-01T13:51:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/products/the-long-sleeve"/>
+    <title>The Long-Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>uneo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1_bfe445bc-0182-4e18-a8a1-0e10805fdd87.png?v=1617299481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>uneo<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The ultimate base layer. Made of super-soft, double-lined Supima cotton, the Long-Sleeve V-Neck Bodysuit features a flattering V neckline, long sleeves, and a supportive, curve-hugging fit. Plus, it’s got a snap closure for extra ease (you’re welcome). </span><a href="https://www.everlane.com/underwear" data-mce-fragment="1" data-mce-href="https://www.everlane.com/underwear">See the story.</a></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544420274266</id>
+      <title>White</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544420274266</id>
+      <title>Black</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uneo.myshopify.com/products/6544409526362</id>
+    <published>2021-04-01T13:23:54-04:00</published>
+    <updated>2021-04-01T13:23:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/products/cotton-cutaway-tank"/>
+    <title>Cotton Cutaway Tank</title>
+    <s:type></s:type>
+    <s:vendor>uneo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1_5c2c2aba-68dc-458f-ad55-e7a79b9bc40e.png?v=1617419937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>uneo<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Your favorite throwback style meets our favorite jersey knit. Made of super-soft cotton, the Organic Cotton Cutaway Tank features a high neck and back, and a slight curve at the shoulders, which makes it extra flattering. If there’s one thing the ’90s got right, it’s the basics.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">This tank top is certified organic from seed to shirt. The Global Organic Textile Standard (GOTS) certification takes over a year to account for every step of production—from the processing of certified organic fiber into yarn, to the dyehouses, mills, factories, and printers.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544409526362</id>
+      <title>gray</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544409526362</id>
+      <title>white</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uneo.myshopify.com/products/6544403857498</id>
+    <published>2021-04-01T13:06:48-04:00</published>
+    <updated>2021-04-01T13:06:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/products/the-pima-micro"/>
+    <title>The Pima Micro</title>
+    <s:type></s:type>
+    <s:vendor>uneo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1_6855ca70-cd19-4d78-9348-d3d66faedba6.png?v=1617296808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>uneo<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Meet your new favorite layer. Featuring a classic crew neckline, long fitted sleeves, and a snug fit throughout, the Pima Micro-Rib Long-Sleeve Crew is a go-to cold-weather essential. The best part? It’s made of our lightweight, fine-ribbed cotton with a touch of stretch that hugs in all the right places. Wear it on its own indoors, or layer it under your favorite sweater for added warmth all season long.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544403857498</id>
+      <title>White</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544403857498</id>
+      <title>Gray</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://uneo.myshopify.com/products/6544382263386</id>
+    <published>2021-04-01T12:06:00-04:00</published>
+    <updated>2021-04-01T12:06:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://uneo.myshopify.com/products/the-organic-cotton"/>
+    <title>The Organic Cotton</title>
+    <s:type></s:type>
+    <s:vendor>uneo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0076/1708/5530/products/1.png?v=1617419531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>uneo<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">It's an icon. The Organic Cotton Box-Cut Pocket Tee is made from certified organic cotton, and features a classic crew neck and pocket detail. This roomy cut is cropped to sit right above the hip for a truly timeless shape.
+This T-shirt is certified organic from seed to shirt. The Global Organic Textile Standard (GOTS) certification takes over a year to account for every step of production—from the processing of certified organic fiber into yarn, to the dyehouses, mills, factories, and printers.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544382263386</id>
+      <title>Black</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://uneo.myshopify.com/products/6544382263386</id>
+      <title>White</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
